@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-3D+Modeling-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 MagicaCSG Free Installer** — MagicaCSG is a free real-time constructive solid geometry (CSG) modeling tool from the creator of MagicaVoxel. Works without internet access, no account required. Full offline installation.
+**💻 MagicaCSG Free Installer** — MagicaCSG is a free, lightweight CSG (Constructive Solid Geometry) modeling tool that allows creating 3D shapes by combining and subtracting primitive forms. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About MagicaCSG
 
-MagicaCSG is a free real-time constructive solid geometry (CSG) modeling tool from the creator of MagicaVoxel. It allows creating 3D shapes by adding, subtracting, and intersecting primitive shapes, producing smooth hard-surface models with path-traced rendering.
+MagicaCSG is a free, lightweight CSG (Constructive Solid Geometry) modeling tool that allows creating 3D shapes by combining and subtracting primitive forms. Add, subtract, and intersect cubes, spheres, cylinders, and other primitives to construct complex hard-surface models. Export results as OBJ or STL files for rendering, 3D printing, or game development.
 
 ---
 
 ## ❌ Problem: MagicaCSG is hard to access
 
-- **CSG Limitations** — Constructive solid geometry less suited for organic shapes
-- **Single Developer** — Development pace entirely dependent on one creator
-- **Export Limitations** — Mesh export may require cleanup in other 3D tools
-- **No Animation** — Static modeling tool only; no rigging or animation features
+- **CSG Limitation** — Organic shapes extremely difficult with boolean-only workflow
+- **Feature Set** — Basic tool without advanced modeling, rigging, or animation features
+- **Export Quality** — Exported meshes may have topology issues requiring cleanup
+- **Platform Availability** — Limited platform support compared to full 3D suites
 
 ---
 
@@ -121,7 +121,7 @@ MagicaCSG is a free real-time constructive solid geometry (CSG) modeling tool fr
 
 ---
 
-**MagicaCSG Free Installer** — MagicaCSG is a free real-time constructive solid geometry (CSG) modeling tool from the creator of MagicaVoxel. Install without internet connection today!
+**MagicaCSG Free Installer** — MagicaCSG is a free, lightweight CSG (Constructive Solid Geometry) modeling tool that allows creating 3D shapes by combining and subtracting primitive forms. Install without internet connection today!
 
 <div align="center">
 
